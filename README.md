@@ -3,7 +3,7 @@ Engeto Data academy - SQL
 
 # Project structure
 TABULKA - Porovnání dostupnosti potravin na základě průměrných příjmů za určité časové období v ČR.
-TABULKA  s HDP, GINI koeficientem a populací dalších evropských států ve stejném období, jako primární přehled pro ČR.
+TABULKA - s HDP, GINI koeficientem a populací dalších evropských států ve stejném období, jako primární přehled pro ČR.
 
 
 # Assignement
