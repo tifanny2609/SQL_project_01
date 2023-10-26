@@ -16,7 +16,7 @@ t_Ivana_Fuksova_project_SQL_primary_final
 (Data mezd a cen potravin za Českou republiku sjednocených na totožné porovnatelné období – společné roky)
 
 t_Ivana_Fuksova_project_SQL_primary_secondary
-(data o dalších evropských státech pro totožné porovnatelné období – společné roky)
+(Data o dalších evropských státech pro totožné porovnatelné období – společné roky)
 
 SQL skript generující výslednou tabulku, popis mezivýsledků (průvodní listinu) a informace o výstupních datech (například kde chybí hodnoty apod.).
 
