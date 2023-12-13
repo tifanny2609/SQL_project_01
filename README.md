@@ -1,6 +1,13 @@
 # SQL_project_01
 Data Academy, Engeto
 
+# Úvod do projektu
+Na vašem analytickém oddělení nezávislé společnosti, která se zabývá životní úrovní občanů, jste se dohodli, že se pokusíte odpovědět na pár definovaných výzkumných otázek, které adresují dostupnost základních potravin široké veřejnosti. Kolegové již vydefinovali základní otázky, na které se pokusí odpovědět a poskytnout tuto informaci tiskovému oddělení. Toto oddělení bude výsledky prezentovat na následující konferenci zaměřené na tuto oblast.
+
+Potřebují k tomu od vás připravit robustní datové podklady, ve kterých bude možné vidět porovnání dostupnosti potravin na základě průměrných příjmů za určité časové období.
+
+Jako dodatečný materiál připravte i tabulku s HDP, GINI koeficientem a populací dalších evropských států ve stejném období, jako primární přehled pro ČR.
+
 # Project structure
 1. TABULKA  - Porovnání dostupnosti potravin na základě průměrných příjmů za určité časové období v ČR.
 2. TABULKA - HDP, GINI koeficient, populace dalších evropských států ve stejném období, jako primární přehled pro ČR.
@@ -33,8 +40,8 @@ t_Ivana_Fuksova_project_SQL_primary_final
 t_Ivana_Fuksova_project_SQL_secondary_final
 (Data o dalších evropských státech pro totožné porovnatelné období – společné roky)
 
-SQL skript generující výslednou tabulku, popis mezivýsledků (průvodní listinu) a informace o výstupních datech (například kde chybí hodnoty apod.).
-
+SQL skript generující výslednou tabulku, popis mezivýsledků (průvodní listinu) a informace o výstupních datech (například kde chybí hodnoty apod.)
+Sada SQL, které z vámi připravených tabulek získají datový podklad k odpovězení na vytyčené výzkumné otázky. 
 
 # Ansers / Questions
 Výzkumné otázky:
