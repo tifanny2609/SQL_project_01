@@ -11,6 +11,7 @@ Jako dodatečný materiál připravte i tabulku s HDP, GINI koeficientem a popul
 # Project structure
 1. TABULKA  - Porovnání dostupnosti potravin na základě průměrných příjmů za určité časové období v ČR.
 2. TABULKA - HDP, GINI koeficient, populace dalších evropských států ve stejném období, jako primární přehled pro ČR.
+3. SQL 1-5 - tabulky pro výzkumné otázky
 
 # Assignement
 Primární tabulky:
